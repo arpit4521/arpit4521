@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m Interested to work on Web 3.0
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me at Mail: arpitgupta0761@gmail.com
-- 📫 How to reach me at Linkedin https://www.linkedin.com/in/arpit-gupta-24170b238/
+- 📫 How to reach me at Linkedin https://www.linkedin.com/in/arpit-gupta-url/
 - ⚡ Fun fact: I'm currently studying B.Tech in Electronics and Communication from NIT Bhopal
 
 <h3 align="left">Languages:</h3>
