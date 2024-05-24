@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m Interested to work on Web 3.0
-- 💬 Ask me about Technology & Finance
+- 💬 Ask me about Technology & Finance & AI
 - 📫 How to reach me at Mail: arpitgupta0761@gmail.com
 - 📫 How to reach me at Linkedin https://www.linkedin.com/in/arpit-gupta-url/
 - ⚡ Fun fact: I'm currently studying B.Tech in Electronics and Communication from NIT Bhopal
