@@ -1,28 +1,56 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arpit Gupta
-======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=000000&center=true&vCenter=true&width=2000&height=200&lines=Hello+Everyone%F0%9F%91%8B%F0%9F%8F%BC;I+am+Arpit+Gupta%F0%9F%92%BB)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work on Web 3.0
-- 💬 Ask me about Technology & Finance & AI
-- 📫 How to reach me at Mail: arpitgupta0761@gmail.com
-- 📫 How to reach me at Linkedin https://www.linkedin.com/in/arpit-gupta-url/
-- ⚡ Fun fact: I'm currently studying B.Tech in Electronics and Communication from NIT Bhopal
+![Coder GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"></a> </p>
+<div align="center" >Welcome to my GitHub profile! I'm a passionate web developer with a zest for exploring new technologies.</div>
 
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a> </a> </p>
+<div >
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="60" height="60" />ABOUT ME</h1>
+ </div>
+ 
+ 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="25" height="25" /> Proficient in a wide range of web-dev technologies, including HTML, CSS, JavaScript, MERN stack along with UI frameworks, such as Bootstrap and Material-UI.
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Proficient in **Web Developement**
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Contributing to some exciting open source project have been always fun .
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> I’m currently working on **Open Source Projects**
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Goal: **Exploring every possible thing in the field of technology**
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me Mail : **arpitgupta0761@gmail.com**
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="LinkedIn" width="25" height="25" /> How to reach me at LinkedIn : **https://www.linkedin.com/in/arpit-gupta-url/**
+
+
+<div >
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="60" height="60" /> TECH STACK</h1>
+ </div>
+
+
+
+Domain | My Expertise
+--- | --- 
+**Languages**  | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+**Frameworks & Libraries**  | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+**Domain Knownledge**  | [![Web Development Badge](https://img.shields.io/badge/-Web%20Development-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) 
+**CI / CD** | [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+**Databases**  | ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+**OS**  | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+**Tools & Platform**  | ![Figma](https://img.shields.io/badge/-figma-FFB6C1?logo=%22figma%22) ![VsCode](https://img.shields.io/badge/-vscode-0066ff?logo=%22visual-studio%22) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit4521&show_icons=true&locale=en&layout=compact" alt="arpit4521" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit4521&show_icons=true&locale=en" alt="arpit4521" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit4521&" alt="arpit4521" /></p>
 
 
-<!---
-arpit4521/arpit4521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div >
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" />QUOTE OF THE DAY</h1>
+</div>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
